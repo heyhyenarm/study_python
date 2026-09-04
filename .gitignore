@@ -135,6 +135,8 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+.firstvenv
+.secondvenv
 .thirdvenv
 
 # Spyder project settings
